@@ -1,4 +1,4 @@
-# Eyantra-MOOC
+# Eyantra-MOOC_SFC_PART_1
 This repository is created to contain documentations, codes and details on Eyantra_SFC_Part_I, a MOOC course conducted by IIT Bombay during the year 2021. 
 This was a 6-week course on Bash, AWK, SED scriptings, Python, Intro to Git, socket communication, SSH, Web scraping and as for the final task, we were asked to build a python based CoWIN chat bot, that uses webscraping on a specific provided url to register the seats for a client vaccination based on parameters like age, dosenum, place, date and vaccinetype. 
 The entire course sturcture was as follows:
