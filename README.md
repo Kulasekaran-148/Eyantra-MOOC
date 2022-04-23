@@ -4,29 +4,29 @@ This was a 6-week course on Bash, AWK, SED scriptings, Python, socket communicat
 The entire course sturcture was as follows:
 
 WEEK 1:
-  Sorting a CSV file based on specific column
-	Sorting a CSV file based on specific column with specific starting character
-	Sorting a CSV file based on specific column and print specific columns with a ,
-	converting cartesian to polar coordinates with 5 decimal accuracy
+  Sorting a CSV file based on specific column,
+	Sorting a CSV file based on specific column with specific starting character,
+	Sorting a CSV file based on specific column and print specific columns with a comma,
+	converting cartesian to polar coordinates with 5 decimal accuracy,
   
 Week2:
-	RegEX - finding out lines with numbers and printing the numbers
-	SED scripting - removing comments from a code
-	AWK scripting - printing given file in specified format
-	Shell scripting to find valid ip address from a given text and classify them.
+	RegEX - finding out lines with numbers and printing the numbers,
+	SED scripting - removing comments from a code,
+	AWK scripting - printing given file in specified format,
+	Shell scripting to find valid ip address from a given text and classify them,
   
 Week3:
 	AWK scripting - feedback check program - git introduction
   
 Week4:
-	Python programming - distance btw two points with three decimal accuracy
-	Finding max score - csv file - modify 2 functions
-	calculating office shifts - modify 3 functions
-	generating report card for the class
+	Python programming - distance btw two points with three decimal accuracy,
+	Finding max score - csv file - modify 2 functions,
+	calculating office shifts - modify 3 functions,
+	generating report card for the class,
   
 Week5:
-	Power of N
-	Scraping the website
+	Power of N,
+	Scraping the website,
   
 Week6:
 	Chat-bot using socket comm, beautifulsoup4, python.
